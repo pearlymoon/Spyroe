@@ -2,8 +2,8 @@
 
 This Will Hold all of Spyroe's Source Code
 
-**WARNING**
-DO NOT COPY MY CODE AND BRAND IT AS YOUR OWN OR YOU WILL RECIVE A DMCA TAKE DOWN
+
+**DO NOT COPY MY CODE AND BRAND IT AS YOUR OWN OR YOU WILL RECIVE A DMCA TAKE DOWN**
 
 ## Downloads
 [Website Code](https://github.com/xSpyroex/Spyroe.git)
