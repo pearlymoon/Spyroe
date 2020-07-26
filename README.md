@@ -1,9 +1,7 @@
 ## Welcome to Spyroe6930's Website
 
-This Will Hold all of Spyroe's Source Code
+This Will Hold all of Spyroe's Source Code **WARNING: IF YOU USE MY CODE AND BRAND IT AS YOUR OWN YOU WILL RECIVE A DMCA TAKE DOWN**
 
-
-DO NOT COPY MY CODE AND BRAND IT AS YOUR OWN OR YOU WILL RECIVE A DMCA TAKE DOWN
 
 ## Downloads
 [Website Code](https://github.com/xSpyroex/Spyroe.git)
