@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Spyroe6930's Website
 
-You can use the [editor on GitHub](https://github.com/xSpyroex/Spyroe/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This Will Hold all of Spyroe's Source Code
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
