@@ -6,7 +6,7 @@ This Will Hold all of Spyroe's Source Code
 
 ## Downloads
 1. [Website Code](https://github.com/xSpyroex/Spyroe.git)
-2. 
+2. [Plugin](https://github.com/xSpyroex/Spyroe/releases/download/1.0/Hello.jar)
 
 ### Projects
 
